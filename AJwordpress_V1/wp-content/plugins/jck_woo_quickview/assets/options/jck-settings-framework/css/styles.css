@@ -1,0 +1,323 @@
+/* 	=============================
+   	Fonts 
+   	============================= */
+   	
+   	@font-face {
+	  font-family: 'jck-framework-icons';
+	  src: url('../font/jck-framework-icons.eot?91407482');
+	  src: url('../font/jck-framework-icons.eot?91407482#iefix') format('embedded-opentype'),
+	       url('../font/jck-framework-icons.woff?91407482') format('woff'),
+	       url('../font/jck-framework-icons.ttf?91407482') format('truetype'),
+	       url('../font/jck-framework-icons.svg?91407482#jck-framework-icons') format('svg');
+	  font-weight: normal;
+	  font-style: normal;
+	}
+	/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+	/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+	/*
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	  @font-face {
+	    font-family: 'jck-framework-icons';
+	    src: url('../font/jck-framework-icons.svg?91407482#jck-framework-icons') format('svg');
+	  }
+	}
+	*/
+	 
+	 [class^="icon-"]:before, [class*=" icon-"]:before {
+	  font-family: "jck-framework-icons";
+	  font-style: normal;
+	  font-weight: normal;
+	  speak: none;
+	 
+	  display: inline-block;
+	  text-decoration: inherit;
+	  width: 1em;
+	  margin-right: .2em;
+	  text-align: center;
+	  /* opacity: .8; */
+	 
+	  /* For safety - reset parent styles, that can break glyph codes*/
+	  font-variant: normal;
+	  text-transform: none;
+	     
+	  /* fix buttons height, for twitter bootstrap */
+	  line-height: 1em;
+	 
+	  /* Animation center compensation - margins should be symmetric */
+	  /* remove if not needed */
+	  margin-left: .2em;
+	 
+	  /* you can be more comfortable with increased icons size */
+	  /* font-size: 120%; */
+	 
+	  /* Uncomment for 3D effect */
+	  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+	}
+	 
+	.icon-plus-circled:before { content: '\e800'; } /* '' */
+	.icon-minus-circled:before { content: '\e802'; } /* '' */
+	.icon-help-circled:before { content: '\e801'; } /* '' */
+	.icon-info-circled:before { content: '\e803'; } /* '' */
+   	
+/* 	=============================
+   	Tabs 
+   	============================= */
+
+	.jckTabs {
+		display: none;
+	}
+	
+	.jckTabs.activeTab {
+		display: block;
+	}
+	
+/* 	=============================
+   	General Styling 
+   	============================= */
+   	
+   	.hide { display: none; }
+   	
+   	div.updated { display: none; }
+   	
+   	.wrap div.updated {
+	   	margin-top: 20px;
+	   	display: block;
+   	}
+   	
+    #jck_sf .postbox {
+	   	margin: 20px 0;
+   	}
+   		#jck_sf .postbox h3 {
+	   		padding: 8px 2%;
+	   		border: none;
+	   		margin-top: 25px;
+	   		background: #333333;
+	   		color: #ffffff;
+	   		-webkit-font-smoothing: antialiased;
+	   		-moz-font-smoothing: antialiased;
+	   		-o-font-smoothing: antialiased;
+	   		font-smoothing: antialiased;
+	   		font-size: 1.25em;
+   		}
+   		#jck_sf .postbox h3:first-child {
+	   		margin-top: 0;
+   		}
+   		
+   		.js #jck_sf .postbox h3 {
+	   		cursor: default;
+   		}
+   		
+   		#jck_sf .postbox table.form-table,
+   		#jck_sf .jckSectionDesc {
+	   		margin: 0 2%;
+	   		width: 96%;
+   		}
+   		
+   		#jck_sf .postbox table.form-table {
+	   		margin-bottom: 20px;
+   		}
+   		
+   		#jck_sf .jckSectionDesc {
+   			margin-top: 20px;
+	   		margin-bottom: 20px;
+	   		padding-bottom: 20px;
+	   		border-bottom: 1px solid #eeeeee;
+   		}
+   		
+   	#jck_sf .subtitle {
+	   	display: block;
+		margin: 10px 10px 0 0;
+		padding: 0;
+		font-size: 85%;
+		font-style: italic;
+		color: #777;
+   	}
+	
+/* 	=============================
+   	Tables 
+   	============================= */
+   	
+   	#jck_sf .form-table .widefat {
+	   	max-width: 100%;
+	   	width: 100%;
+   	}
+   	
+	   	#jck_sf .form-table .widefat th {
+		   	padding: 8px 10px;
+		   	font-weight: 400;
+		   	white-space: nowrap;
+		   	width: auto;
+	   	}
+	   	
+	   	#jck_sf .form-table td {
+		   	vertical-align: top;
+	   	}
+	   		#jck_sf .form-table td label {
+		   		line-height: 25px;
+	   		}
+		   		#jck_sf .form-table td input[type=checkbox] {
+			   		margin-top: 5px;
+			   		vertical-align: top;
+		   		}
+	   	
+	   	#jck_sf .form-table .widefat td {
+		   	width: auto;
+	   	}
+	   	
+	   	#jck_sf .form-table .widefat th.small,
+	   	#jck_sf .form-table .widefat td.small {
+		   	width: 15%;
+	   	}
+	   	
+	   	#jck_sf .form-table .widefat th.medium,
+	   	#jck_sf .form-table .widefat td.medium {
+		   	width: 25%;
+	   	}
+	   	
+	   	#jck_sf .form-table .widefat th.large,
+	   	#jck_sf .form-table .widefat td.large {
+		   	width: 35%;
+	   	}
+	   	
+	   	#jck_sf .form-table .widefat th.actions,
+	   	#jck_sf .form-table .widefat td.actions {
+		   	width: 45px;
+	   	}
+	   		
+	   		#jck_sf .form-table .widefat td.actions a {
+		   		font-size: 18px;
+		   		float: right;
+		   		display: inline;
+		   		margin: 0;
+		   		width: 22px;
+	   		}
+	   	
+		   	#jck_sf .form-table .widefat td input.regular-text {
+			   	max-width: 80%;
+		   	}
+		   	
+		   	#jck_sf .form-table .widefat td input.large-text {
+			   	max-width: 100%;
+		   	}
+		   	
+	@media screen and (max-width:782px) { 
+		
+		#jck_sf .form-table .widefat thead {
+			display: none;
+		}
+			 
+		#jck_sf .form-table .widefat th,
+	   	#jck_sf .form-table .widefat td{
+		   	width: auto !important;
+	   	}
+	   		   		
+	   		#jck_sf .form-table .widefat td input.regular-text {
+			   	max-width: 100%;
+		   	}
+		   	
+		   	#jck_sf .form-table .widefat td input.large-text {
+			   	max-width: 100%;
+		   	}
+		 
+	}
+	
+/* 	=============================
+   	Img Checkboxes 
+   	============================= */
+   	
+   	.jckCheckImg {
+	   	float: left;
+	   	display: inline;
+	   	margin: 0 10px 10px 0;
+	   	width: auto;
+	   	text-align: center;
+   	}
+   		.jckCheckImg img {
+	   		display: block;
+	   		border: 4px solid #ffffff;
+   		}
+   		.jckCheckImg.checked img {
+	   		border-color: #333333;
+   		}
+   		.jckCheckImg.hasLabel img {
+	   		margin-bottom: 5px;
+   		}
+   		
+   		.jckCheckImg input {
+	   		display: none;
+   		}
+   		
+/* 	=============================
+   	Date/Time Picker 
+   	============================= */
+   	
+   	.jckDateTime {
+	   	overflow: hidden;
+   	}
+   	.jckDateTimeField {
+	   	float: left;
+	   	display: inline;
+	   	width: 48%;
+   	}   	
+   	.jckDateTimeField:nth-child(2) {
+	   	float: right;
+   	}
+   	
+	   	.jckDateTimeField label {
+		   	float: left;
+		   	display: inline;
+		   	width: auto;
+		   	white-space: nowrap;
+		   	line-height: 27px;
+		   	font-weight: 600;
+		   	color: #222;
+	   	}
+	   	.jckDateTimeField input {
+		   	float: right;
+		   	width: 55%;
+		   	margin: 0 0 0 10px;
+	   	}
+	   	
+	   	.jckGroupRow .jckDateTimeField input {
+		   	width: 100%;
+		   	max-width: 100% !important;
+		   	margin: 0;
+	   	}
+	   	
+	.singlePicker .jckDateTimeField {
+		width: 100%;
+	}
+   	
+   	.ui-timepicker-title {
+	   	padding: 6px;
+   	}
+   	
+   	.ui-timepicker-hour-cell a,
+   	.ui-timepicker-minute-cell a {
+	   	padding: 2px 6px;
+	   	margin: 0;
+	   	display: block;
+	   	cursor: pointer;
+   	}
+   	
+/* 	=============================
+   	Quad Fields 
+   	============================= */
+   	
+   	.multifields {
+	   	width: 25em;
+   	}
+   		.multifields .multifield {
+	   		width: 20%;
+	   		float: left;
+	   		margin-right: 4%;
+   		}
+   			.multifields .multifield span {
+	   			font-style: italic;
+	   			font-size: 90%;
+	   			display: block;
+	   			margin: 4px 0 0 2px;
+   			}
+   			.multifields .multifield input {
+	   			width: 100%;
+   			}

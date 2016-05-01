@@ -1,0 +1,24 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_pt_html_content</custom-field>
+        <custom-field action="translate">portfolio-filter</custom-field>
+        <custom-field action="translate">portfolio_filter</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="site_copyright" />
+        <key name="blog_pagenavi_intermidiate_text" />
+        <key name="blog_pagenavi_previous_text" />
+        <key name="blog_pagenavi_next_text" />
+        <key name="blog_pagenavi_first_text" />
+        <key name="blog_pagenavi_last_text" />
+		<key name="blog_pagenavi_next_text" />
+        <key name="blog_pagenavi_first_text" />
+        <key name="blog_pagenavi_last_text" />
+        <key name="store_banner_title" />
+        <key name="store_banner_description" />
+        <key name="store_banner_button_text" />
+    </admin-texts>    
+        
+</wpml-config>
+
+

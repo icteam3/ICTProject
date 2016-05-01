@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Quickview v1.0\n"
+"POT-Creation-Date: 2014-06-29 11:49-0000\n"
+"PO-Revision-Date: 2014-06-29 11:52-0000\n"
+"Last-Translator: James Kemp <me@jckemp.com>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: /Volumes/Macintosh HD/Users/jamesckemp/Projects/Working/"
+"defaultwordpress/wp-content/plugins/jck_woo_quickview\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/jamesckemp/Projects/"
+"Working/defaultwordpress/wp-content/plugins/jck_woo_quickview\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:9
+msgid "Quickview Trigger Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:13
+msgid "Popup Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:25
+msgid "Quickview Method"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:31
+msgid "Hover Quickview Button"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:32
+msgid "Click Quickview Button"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:45
+msgid "Automatically insert Button?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:46
+msgid ""
+"Would you like Quickview to attempt to automatically insert the Quickview "
+"button?<br><br> For alternative insertion options, please see <a href="
+"\"http://www.jckemp.com/plugins/woocommerce-quickview/"
+"#manually_insert_the_quickview_button\" target=\"_blank\">the documentation</"
+"a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:53
+msgid "Button Position"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:54
+msgid ""
+"If you chose to automatically insert the button, where should it be "
+"displayed?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:59
+msgid "Before Item"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:60
+msgid "Before Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:61
+msgid "After Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:62
+msgid "After Item"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:67
+msgid "Button Align"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:72
+msgid "Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:73
+msgid "Centre"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:74
+msgid "Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:75
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:143
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:254
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:309
+msgid "None"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:80
+msgid "Margins"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:82
+msgid "Enter a pixel value (positive/negative) to offset the quickview button."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:101
+msgid "Auto-hide Button?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:102
+msgid "Should the quickview button only show when the product is hovered?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:109
+msgid "Button Parent"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:111
+msgid ""
+"If the button is set to autohide, enter a parent class, id, or element that "
+"should display the quickview button when hovered."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:112
+msgid ".product"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:117
+msgid "Icon"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:118
+msgid "Choose the Icon to use on the Quickview button"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:123
+msgid "No Icon"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:124
+msgid "Magnifier"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:125
+msgid "Eye"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:126
+msgid "Plus Symbol"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:131
+msgid "Quickview Text"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:133
+msgid "Quickview"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:138
+msgid "Button Style"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:144
+msgid "Border"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:145
+msgid "Flat"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:150
+msgid "Padding"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:152
+msgid "Enter a pixel value (positive/negative) to pad the quickview button."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:163
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:409
+msgid "Button Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:164
+msgid ""
+"If your button is \"Flat\" style, this is the background colour. If it's "
+"\"Border\" style, this is the border colour."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:171
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:416
+msgid "Button Hover Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:172
+msgid ""
+"If your button is \"Flat\" style, this is the background colour on hover. If "
+"it's \"Border\" style, this is the border colour on hover."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:179
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:423
+msgid "Button Text Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:186
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:430
+msgid "Button Text Hover Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:193
+msgid "Border Radius"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:195
+msgid "Enter a border radius in pixels."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:214
+msgid "Enable Gallery?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:215
+msgid ""
+"Should the popup allow you to navigate between the other products on the "
+"page?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:222
+msgid "Overlay Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:229
+msgid "Overlay Opacity"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:231
+msgid "Enter a value where 0 = transparent, and 1 = opaque."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:245
+msgid "Image Scale Mode"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:246
+msgid "The main images use the <a href=\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:251
+msgid "Fill"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:252
+msgid "Fit if Smaller"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:253
+msgid "Fit"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:259
+msgid "Image Transition"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:264
+msgid "Horizontal Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:265
+msgid "Vertical Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:266
+msgid "Fade"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:271
+msgid "Transition Speed"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:273
+msgid "The speed in milliseconds at which the image gallery transition occurs."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:279
+msgid "Background Colour"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:286
+msgid "Show Navigation Arrows?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:287
+msgid "Show previous/next arrows on the image gallery?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:294
+msgid "Auto-hide Navigation Arrows?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:295
+msgid "Should the navigation arrows only be visible on hover?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:302
+msgid "Thumbnail type"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:307
+msgid "Sliding Thumbnails"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:308
+msgid "Bullets"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:322
+msgid "Show Title?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:329
+msgid "Show Price?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:336
+msgid "Show Rating?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:343
+msgid "Show Banner?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:344
+msgid "E.g: \"Sale!\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:351
+msgid "Show Description?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:356
+msgid "No"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:357
+msgid "Full"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:358
+msgid "Short"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:363
+msgid "Show Product Options / Add to Cart?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:370
+msgid "Enable AJAX Add to Cart?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:371
+msgid "Add products to cart from the quickview without reloading the page."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:378
+msgid "Hide Popup After Add to Cart?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:379
+msgid ""
+"Once a product has been added to the cart via ajax, hide the modal popup.."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:386
+msgid "Show Qty Field?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:393
+msgid "Show Product Meta?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:394
+msgid "E.g: Categories, Tags, etc."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:401
+msgid "Try to use your Theme's Button Styling?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/assets/options/jckqv_settings.php:402
+msgid ""
+"Check this if you'd like to attempt to use the button styling from your "
+"theme. If this fails, use the styling tools below, or add your own CSS."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/inc/qv-meta.php:9
+msgid "SKU:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/inc/qv-meta.php:9
+msgid "n/a"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/inc/qv-rating.php:13
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/inc/qv-rating.php:15
+msgid "out of 5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/inc/qv-sale-flash.php:5
+msgid "Sale!"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/jck_woo_quickview.php:139
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/jck_woo_quickview.php:194
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/jck_woo_quickview.php:257
+msgid "Adding to Cart..."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/jamesckemp/Projects/Working/defaultwordpress/wp-content/plugins/jck_woo_quickview/jck_woo_quickview.php:256
+msgid "Added!"
+msgstr ""

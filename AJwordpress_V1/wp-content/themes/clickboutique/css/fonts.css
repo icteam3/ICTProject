@@ -1,0 +1,266 @@
+/*
+ * Plumtree Theme Fonts
+ * ----------------------------------------------------------------------------
+ */
+
+/* Default Theme fonts */
+@import url(//fonts.googleapis.com/css?family=Lato:400,300,700,300italic,400italic,700italic);
+@import url(//fonts.googleapis.com/css?family=Merriweather+Sans|Economica|Galdeano|Nixie+One|Actor|Open+Sans:400,300|Maven+Pro|Monda:400,700|Ropa+Sans|Roboto:400,700,300|Quicksand:300,400,700|Cabin:400,700);
+
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/RobotoCondensed-Regular-webfont.eot');
+    src: url('../fonts/RobotoCondensed-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/RobotoCondensed-Regular-webfont.woff') format('woff'),
+         url('../fonts/RobotoCondensed-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/RobotoCondensed-Regular-webfont.svg#roboto_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed Light';
+    src: url('../fonts/RobotoCondensed-Light-webfont.eot');
+    src: url('../fonts/RobotoCondensed-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/RobotoCondensed-Light-webfont.woff') format('woff'),
+         url('../fonts/RobotoCondensed-Light-webfont.ttf') format('truetype'),
+         url('../fonts/RobotoCondensed-Light-webfont.svg#roboto_condensedlight') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* Plumtree fonts lib */
+@import url(//fonts.googleapis.com/css?family=Merriweather+Sans|Economica|Galdeano|Nixie+One|Actor|Open+Sans:400,300|Maven+Pro|Monda:400,700|Ropa+Sans|Quicksand:300,400,700|Cabin:400,700);
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('../fonts/Nexa_Free_Bold-webfont.eot');
+    src: url('../fonts/Nexa_Free_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Nexa_Free_Bold-webfont.woff') format('woff'),
+         url('../fonts/Nexa_Free_Bold-webfont.ttf') format('truetype'),
+         url('../fonts/Nexa_Free_Bold-webfont.svg#nexa_boldregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('../fonts/Nexa_Free_Light-webfont.eot');
+    src: url('../fonts/Nexa_Free_Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Nexa_Free_Light-webfont.woff') format('woff'),
+         url('../fonts/Nexa_Free_Light-webfont.ttf') format('truetype'),
+         url('../fonts/Nexa_Free_Light-webfont.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('../fonts/MuseoSans_500-webfont.eot');
+    src: url('../fonts/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/MuseoSans_500-webfont.woff') format('woff'),
+         url('../fonts/MuseoSans_500-webfont.ttf') format('truetype'),
+         url('../fonts/MuseoSans_500-webfont.svg#museo_sans_500regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lovelo';
+    src: url('../fonts/lovelo_black-webfont.eot');
+    src: url('../fonts/lovelo_black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/lovelo_black-webfont.woff') format('woff'),
+         url('../fonts/lovelo_black-webfont.ttf') format('truetype'),
+         url('../fonts/lovelo_black-webfont.svg#loveloblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular-webfont.eot');
+    src: url('../fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Roboto-Regular-webfont.woff') format('woff'),
+         url('../fonts/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'latobold';
+    src: url('../fonts/lato-bol-webfont.eot');
+    src: url('../fonts/lato-bol-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/lato-bol-webfont.woff') format('woff'),
+    url('../fonts/lato-bol-webfont.ttf') format('truetype'),
+    url('../fonts/lato-bol-webfont.svg#latobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latolight';
+    src: url('../fonts/lato-lig-webfont.eot');
+    src: url('../fonts/lato-lig-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/lato-lig-webfont.woff') format('woff'),
+    url('../fonts/lato-lig-webfont.ttf') format('truetype'),
+    url('../fonts/lato-lig-webfont.svg#latolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('../fonts/lato-reg-webfont.eot');
+    src: url('../fonts/lato-reg-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/lato-reg-webfont.woff') format('woff'),
+    url('../fonts/lato-reg-webfont.ttf') format('truetype'),
+    url('../fonts/lato-reg-webfont.svg#latoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'latoitalic';
+    src: url('../fonts/lato-regita-webfont.eot');
+    src: url('../fonts/lato-regita-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/lato-regita-webfont.woff') format('woff'),
+    url('../fonts/lato-regita-webfont.ttf') format('truetype'),
+    url('../fonts/lato-regita-webfont.svg#latoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'fontello';
+    src: url('../fonts/fontello.eot?65252497');
+    src: url('../fonts/fontello.eot?65252497#iefix') format('embedded-opentype'),
+    url('../fonts/fontello.svg?65252497#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fontello';
+    src: url('data:application/octet-stream;base64,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') format('woff'),
+    url('data:application/octet-stream;base64,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LrEmARQrLbA4LCMgLkawAiVGUlggPFkjIC5GsAIlRlBYIDxZLrEmARQrLbA5LLAwKyMgLkawAiVGUlggPFkusSYBFCstsDossDEriiAgPLAEI0KKOCMgLkawAiVGUlggPFkusSYBFCuwBEMusCYrLbA7LLAAFrAEJbAEJiAuRyNHI2GwBkUrIyA8IC4jOLEmARQrLbA8LLEIBCVCsAAWsAQlsAQlIC5HI0cjYSCwBCNCsAZFKyCwYFBYILBAUVizAiADIBuzAiYDGllCQiMgR7AEQ7CAYmAgsAArIIqKYSCwAkNgZCOwA0NhZFBYsAJDYRuwA0NgWbADJbCAYmGwAiVGYTgjIDwjOBshICBGI0ewACsjYTghWbEmARQrLbA9LLAwKy6xJgEUKy2wPiywMSshIyAgPLAEI0IjOLEmARQrsARDLrAmKy2wPyywABUgR7AAI0KyAAEBFRQTLrAsKi2wQCywABUgR7AAI0KyAAEBFRQTLrAsKi2wQSyxAAEUE7AtKi2wQiywLyotsEMssAAWRSMgLiBGiiNhOLEmARQrLbBELLAII0KwQystsEUssgAAPCstsEYssgABPCstsEcssgEAPCstsEgssgEBPCstsEkssgAAPSstsEossgABPSstsEsssgEAPSstsEwssgEBPSstsE0ssgAAOSstsE4ssgABOSstsE8ssgEAOSstsFAssgEBOSstsFEssgAAOystsFIssgABOystsFMssgEAOystsFQssgEBOystsFUssgAAPistsFYssgABPistsFcssgEAPistsFgssgEBPistsFkssgAAOistsFossgABOistsFsssgEAOistsFwssgEBOistsF0ssDIrLrEmARQrLbBeLLAyK7A2Ky2wXyywMiuwNystsGAssAAWsDIrsDgrLbBhLLAzKy6xJgEUKy2wYiywMyuwNistsGMssDMrsDcrLbBkLLAzK7A4Ky2wZSywNCsusSYBFCstsGYssDQrsDYrLbBnLLA0K7A3Ky2waCywNCuwOCstsGkssDUrLrEmARQrLbBqLLA1K7A2Ky2wayywNSuwNystsGwssDUrsDgrLbBtLCuwCGWwAyRQeLABFTAtAAAAS7gAyFJYsQEBjlm5CAAIAGMgsAEjRLADI3CyBCgJRVJEsgoCByqxBgFEsSQBiFFYsECIWLEGA0SxJgGIUVi4BACIWLEGAURZWVlZuAH/hbAEjbEFAEQAAA==') format('truetype');
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?65252497#fontello') format('svg');
+  }
+}
+*/
+
+/*[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+}
+.icon-shop:before { content: '\e800'; } 
+.icon-bag:before { content: '\e801'; } */
+
+
+.lato-bold{
+    font-family: 'latobold' !important;
+}
+
+.ptpanel {
+	font-family: 'Open Sans' !important;
+}
+
+.lato {
+	font-family: 'Lato', sans-serif !important;
+}
+
+.robotocondenced {
+	font-family: 'Roboto Condensed' !important;
+}
+
+.actor{
+	font-family: 'Actor' !important;
+}
+
+.mavenpro{
+	font-family: 'Maven Pro' !important;
+}
+
+.monda{
+	font-family: 'Monda' !important;
+}
+
+.museo{
+	font-family: 'Museo' !important;
+}
+
+.ropasans{
+	font-family: 'Ropa Sans' !important;
+}
+
+.roboto{
+	font-family: 'Roboto' !important;
+}
+
+.quicksand{
+	font-family: 'Quicksand' !important;
+}
+
+.merriweather{
+	font-family: 'Merriweather Sans' !important;
+}
+
+.economica{
+	font-family: 'Economica' !important;
+}
+
+.galdeano{
+	font-family: 'Galdeano' !important;
+}
+
+.nixieone{
+	font-family: 'Nixie One' !important;
+}
+
+.lovelo{
+	font-family: 'Lovelo' !important;
+}
+
+.nexa{
+	font-family: 'Nexa' !important;	
+}
+
+.opensans{
+	font-family: 'Open Sans' !important;
+}
+
+.cabin{
+	font-family: 'Cabin' !important;
+}
+
+@font-face{font-family:'IcoMoon';src:url('../fonts/font-icomoon/IcoMoon.eot');src:url('../fonts/font-icomoon/IcoMoon.eot?#iefix') format('embedded-opentype'), url('../fonts/font-icomoon/IcoMoon.svg#IcoMoon') format('svg'), url('../fonts/font-icomoon/IcoMoon.woff') format('woff'), url('../fonts/font-icomoon/IcoMoon.ttf') format('truetype');font-weight:normal;font-style:normal}[data-icon]:before{font-family:'IcoMoon';content:attr(data-icon);speak:none}[class^="icon-"],[class*=" icon-"]{display:inline-block;width:14px;height:14px;*margin-right:.3em;line-height:14px}[class^="icon-"]:before,[class*=" icon-"]:before{font-family:'IcoMoon';font-style:normal;speak:none}[class^="icon-"].disabled,[class*=" icon-"].disabled{font-weight:normal}.icon-home:before{content:"\21"}.icon-user:before{content:"\22"}.icon-checkedout:before,.icon-lock:before,.icon-locked:before{content:"\23"}.icon-comment:before,.icon-comments:before{content:"\24"}.icon-comments-2:before{content:"\25"}.icon-share-alt:before,.icon-out:before{content:"\26"}.icon-share:before,.icon-redo:before{content:"\27"}.icon-undo:before{content:"\28"}.icon-file-add:before{content:"\29"}.icon-new:before,.icon-plus:before{content:"\2a"}.icon-apply:before,.icon-edit:before,.icon-pencil:before{content:"\2b"}.icon-pencil-2:before{content:"\2c"}.icon-folder-open:before,.icon-folder:before{content:"\2d"}.icon-folder-close:before,.icon-folder-2:before{content:"\2e"}.icon-picture:before{content:"\2f"}.icon-pictures:before{content:"\30"}.icon-list:before,.icon-list-view:before{content:"\31"}.icon-power-cord:before{content:"\32"}.icon-cube:before{content:"\33"}.icon-puzzle:before{content:"\34"}.icon-flag:before{content:"\35"}.icon-tools:before{content:"\36"}.icon-cogs:before{content:"\37"}.icon-options:before,.icon-cog:before{content:"\38"}.icon-equalizer:before{content:"\39"}.icon-wrench:before{content:"\3a"}.icon-brush:before{content:"\3b"}.icon-eye-open:before,.icon-eye:before{content:"\3c"}.icon-checkbox-unchecked:before{content:"\3d"}.icon-checkin:before,.icon-checkbox:before{content:"\3e"}.icon-checkbox-partial:before{content:"\3f"}.icon-asterisk:before,.icon-star-empty:before{content:"\40"}.icon-star-2:before{content:"\41"}.icon-featured:before,.icon-star:before{content:"\42"}.icon-calendar:before{content:"\43"}.icon-calendar-2:before{content:"\44"}.icon-question-sign:before,.icon-help:before{content:"\45"}.icon-support:before{content:"\46"}.icon-pending:before,.icon-warning:before{content:"\48"}.icon-publish:before,.icon-save:before,.icon-ok:before,.icon-checkmark:before{content:"\47"}.icon-unpublish:before,.icon-cancel:before{content:"\4a"}.icon-eye-close:before,.icon-minus:before{content:"\4b"}.icon-purge:before,.icon-trash:before{content:"\4c"}.icon-envelope:before,.icon-mail:before{content:"\4d"}.icon-mail-2:before{content:"\4e"}.icon-unarchive:before,.icon-drawer:before{content:"\4f"}.icon-archive:before,.icon-drawer-2:before{content:"\50"}.icon-box-add:before{content:"\51"}.icon-box-remove:before{content:"\52"}.icon-search:before{content:"\53"}.icon-filter:before{content:"\54"}.icon-camera:before{content:"\55"}.icon-play:before{content:"\56"}.icon-music:before{content:"\57"}.icon-grid-view:before{content:"\58"}.icon-grid-view-2:before{content:"\59"}.icon-menu:before{content:"\5a"}.icon-thumbs-up:before{content:"\5b"}.icon-thumbs-down:before{content:"\5c"}.icon-delete:before,.icon-remove:before,.icon-cancel-2:before{content:"\49"}.icon-save-new:before,.icon-plus-2:before{content:"\5d"}.icon-ban-circle:before,.icon-minus-sign:before,.icon-minus-2:before{content:"\5e"}.icon-key:before{content:"\5f"}.icon-quote:before{content:"\60"}.icon-quote-2:before{content:"\61"}.icon-database:before{content:"\62"}.icon-location:before{content:"\63"}.icon-zoom-in:before{content:"\64"}.icon-zoom-out:before{content:"\65"}.icon-expand:before{content:"\66"}.icon-contract:before{content:"\67"}.icon-expand-2:before{content:"\68"}.icon-contract-2:before{content:"\69"}.icon-health:before{content:"\6a"}.icon-wand:before{content:"\6b"}.icon-unblock:before,.icon-refresh:before{content:"\6c"}.icon-vcard:before{content:"\6d"}.icon-clock:before{content:"\6e"}.icon-compass:before{content:"\6f"}.icon-address:before{content:"\70"}.icon-feed:before{content:"\71"}.icon-flag-2:before{content:"\72"}.icon-pin:before{content:"\73"}.icon-lamp:before{content:"\74"}.icon-chart:before{content:"\75"}.icon-bars:before{content:"\76"}.icon-pie:before{content:"\77"}.icon-dashboard:before{content:"\78"}.icon-lightning:before{content:"\79"}.icon-move:before{content:"\7a"}.icon-next:before{content:"\7b"}.icon-previous:before{content:"\7c"}.icon-first:before{content:"\7d"}.icon-last:before{content:"\e000"}.icon-loop:before{content:"\e001"}.icon-shuffle:before{content:"\e002"}.icon-arrow-first:before{content:"\e003"}.icon-arrow-last:before{content:"\e004"}.icon-chevron-up:before,.icon-uparrow:before,.icon-arrow-up:before{content:"\e005"}.icon-chevron-right:before,.icon-arrow-right:before{content:"\e006"}.icon-chevron-down:before,.icon-downarrow:before,.icon-arrow-down:before{content:"\e007"}.icon-chevron-left:before,.icon-arrow-left:before{content:"\e008"}.icon-arrow-up-2:before{content:"\e009"}.icon-arrow-right-2:before{content:"\e00a"}.icon-download:before,.icon-arrow-down-2:before{content:"\e00b"}.icon-arrow-left-2:before{content:"\e00c"}.icon-play-2:before{content:"\e00d"}.icon-menu-2:before{content:"\e00e"}.icon-arrow-up-3:before{content:"\e00f"}.icon-arrow-right-3:before{content:"\e010"}.icon-arrow-down-3:before{content:"\e011"}.icon-arrow-left-3:before{content:"\e012"}.icon-print:before,.icon-printer:before{content:"\e013"}.icon-color-palette:before{content:"\e014"}.icon-camera-2:before{content:"\e015"}.icon-file:before{content:"\e016"}.icon-file-remove:before{content:"\e017"}.icon-save-copy:before,.icon-copy:before{content:"\e018"}.icon-cart:before{content:"\e019"}.icon-basket:before{content:"\e01a"}.icon-broadcast:before{content:"\e01b"}.icon-screen:before{content:"\e01c"}.icon-tablet:before{content:"\e01d"}.icon-mobile:before{content:"\e01e"}.icon-users:before{content:"\e01f"}.icon-briefcase:before{content:"\e020"}.icon-download:before{content:"\e021"}.icon-upload:before{content:"\e022"}.icon-bookmark:before{content:"\e023"}.icon-out-2:before{content:"\e024"}
