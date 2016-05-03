@@ -643,8 +643,7 @@ class OptionFactory{
 				} break;
 
 
-			 #default: 
-                break;
+            #default: break;
 		}
 
 	}
