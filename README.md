@@ -1,1 +1,2 @@
 # ICTProject
+ICT Project means a temporary endeavour undertaken to create a product or service that includes a significant ICT component such as the implementation of a new system or substantial modifications to an existing one.
