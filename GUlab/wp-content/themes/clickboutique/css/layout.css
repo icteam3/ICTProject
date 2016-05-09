@@ -1,0 +1,148 @@
+/*
+ * Plumtree Mobile versions styling
+ * Layout styling for themes
+ * ----------------------------------------------------------------------------
+ */
+
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	.container-fluid{
+		max-width: 1200px;
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+     
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	.container-fluid{
+		min-width: 768px;
+		max-width: 979px;
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+
+@media (max-width: 767px) {
+
+    .container-fluid{
+        margin: 0 20px;
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    .container-fluid{
+        margin: 0 20px;
+    }
+
+}
+
+
+/*----------Custom Layouts styles--------*/
+
+/*-- One-column, no sidebars --*/
+
+.layout-one-col .site-content {
+	width: 100% !important;
+}
+.layout-one-col .site-content.span12 {
+	margin-left: 0;
+}
+
+/*-- Two-column, with one sidebar left of content --*/
+
+.layout-two-col-left .site-content.span12 {
+	float: right;
+	margin-left: 3%;
+	width: 75%;
+}
+
+.layout-two-col-left .left-sidebar {
+	float: left;
+	margin-left: 0;
+	width: 22%;
+}
+
+/*-- Two-column, with one sidebar right of content --*/
+
+.layout-two-col-right .site-content.span12 {
+	float: left;
+	width: 75%;
+	margin-left: 0;
+}
+
+.layout-two-col-right .right-sidebar {
+	float: right;
+	margin-left: 3%;
+	width: 22%;
+}
+
+/*-- Three-column, with two sidebars left of content --*/
+
+.layout-three-col-left .site-content.span12 {
+	float: right;
+	margin-left: 3%;
+	width: 64%;
+}
+
+.layout-three-col-left .right-sidebar.span3,
+.layout-three-col-left .left-sidebar.span3 {
+	float: left;
+	width: 15%;
+}
+
+.layout-three-col-left .left-sidebar {
+	margin-left: 0;
+}
+
+.layout-three-col-left .right-sidebar {
+	margin-left: 3%;
+}
+
+/*-- Three-column, with two sidebars right of content --*/
+
+.layout-three-col-right .site-content.span12 {
+	float: left;
+	width: 64%;
+	margin-left: 0;
+}
+
+.layout-three-col-right .right-sidebar.span3 {
+	float: right;
+	width: 15%;
+	margin-left: 3%;
+}
+
+.layout-three-col-right .left-sidebar.span3 {
+	float: left;
+	width: 15%;
+	margin-left: 3%;
+}
+
+/*-- Three-column, with two sidebars on both sides of content --*/
+
+.layout-three-col-both .site-content.span12 {
+	float: right;
+    left: -18%;
+    position: relative;
+    width: 64%;
+    margin-left: 0;
+}
+
+.layout-three-col-both .right-sidebar.span3 {
+	float: right;
+    left: 64%;
+    position: relative;
+    width: 15%;
+    margin-left: 3%;
+}
+
+.layout-three-col-both .left-sidebar.span3 {
+	float: left;
+    margin-left: 0;
+    position: relative;
+    width: 15%;
+}
