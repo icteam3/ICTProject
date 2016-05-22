@@ -1,0 +1,151 @@
+/*
+ * CSS Animations
+ * ----------------------------------------------------------------------------
+ */
+
+/* Links & Buttons */
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+a {
+	-webkit-transition: color 0.5s ease-out;
+	-moz-transition: color 0.5s ease-out;
+	-ms-transition: color 0.5s ease-out;
+	-o-transition: color 0.5s ease-out;
+	transition: color 0.5s ease-out;
+}
+.pt-dark-button,
+.pt-light-button, .btn {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;	
+}
+a.remove {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;		
+}
+
+/* Site menu */
+ul.sf-menu li a:after {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* Search Forms */
+i.fa-search {
+	-webkit-transition: color 0.5s ease-out;
+	-moz-transition: color 0.5s ease-out;
+	-ms-transition: color 0.5s ease-out;
+	-o-transition: color 0.5s ease-out;
+	transition: color 0.5s ease-out;
+}
+.show-search {
+	-webkit-transition: background 0.5s ease-out;
+	-moz-transition: background 0.5s ease-out;
+	-ms-transition: background 0.5s ease-out;
+	-o-transition: background 0.5s ease-out;
+	transition: background 0.5s ease-out;
+}
+
+/* Pagination */
+.page-links a span, 
+.pagination a,
+.woocommerce-pagination a,
+.page-numbers {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* Shop Filters widget */
+.product-filters li {
+    -webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* Woocommerce Tabs anchors */
+.woocommerce-tabs a {
+	-webkit-transition: color 0.5s ease-out;
+	-moz-transition: color 0.5s ease-out;
+	-ms-transition: color 0.5s ease-out;
+	-o-transition: color 0.5s ease-out;
+	transition: color 0.5s ease-out;
+}
+
+/* Socials Widget */
+.pt-widget-socials i {
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-ms-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+}
+
+/* From Blog shortcode animation */
+.pt-from-blog-section .prev i,
+.pt-from-blog-section .next i,
+.pt-from-blog-section .prev,
+.pt-from-blog-section .next {
+    -webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* Woocommerce shortcodes animation */
+.shortcode-with-slider .product-category a:after {
+    -webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+.shortcode-with-slider .prev i,
+.shortcode-with-slider .next i,
+.shortcode-with-slider .prev,
+.shortcode-with-slider .next {
+    -webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* Tag Cloud */
+.widget .tagcloud a {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+/* More Link */
+.more-link {
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}

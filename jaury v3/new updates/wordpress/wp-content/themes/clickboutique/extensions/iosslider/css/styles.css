@@ -1,0 +1,49 @@
+
+
+.ios-container {
+	position: relative;
+	width: 100%;
+	overflow: visible;
+}
+
+.iosSlider {
+	height: auto;
+}
+
+.iosSlider .slider {
+	height: auto;
+}
+
+.slider .item {
+	height: auto;
+}
+
+.iosSlider .slider .item img {
+	height: auto;
+    max-width: 100%;	
+}
+
+.ios-container .prev {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 10;
+}
+
+.ios-container .next{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	z-index: 10;
+}
+
+.ios-container .ios-info{
+	position: absolute;
+	width: 60px;
+	height: 40px;
+	z-index: 10;
+}
+
+.ios-container .unselectable:before {
+	opacity: 0.2;
+}
