@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Map with FancyBox Popup\n"
+"POT-Creation-Date: 2016-03-27 00:24+0800\n"
+"PO-Revision-Date: 2016-03-27 00:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/gmwfb-register.php:42
+msgid "These tables could not be created on installation "
+msgstr "அட்டவணை பிழை"
+
+#: ../classes/gmwfb-register.php:68 ../classes/gmwfb-register.php:69
+msgid "Google Map"
+msgstr "கூகிள் மேப்"
+
+#: ../classes/gmwfb-register.php:257
+msgid "Widget Title"
+msgstr "தலைப்பு"
+
+#: ../classes/gmwfb-register.php:261 ../page/gmwfb-show.php:57
+#: ../page/gmwfb-show.php:69
+msgid "Map Id"
+msgstr "வரைபடம்"
+
+#: ../page/gmwfb-add.php:44 ../page/gmwfb-add.php:160
+#: ../page/gmwfb-edit.php:60 ../page/gmwfb-edit.php:148
+msgid "Enter heading for your google map."
+msgstr "உங்கள் கூகிள் மேப் தலைப்பு சேர்க்கவும்."
+
+#: ../page/gmwfb-add.php:51 ../page/gmwfb-edit.php:67
+msgid "Enter map address. Google auto suggest helps you to choose one."
+msgstr "முகவரியை உள்ளிடவும்"
+
+#: ../page/gmwfb-add.php:58 ../page/gmwfb-edit.php:74
+msgid "Enter map latitude (Or) Click Geocode button to get latitude."
+msgstr "அட்சரேகை"
+
+#: ../page/gmwfb-add.php:65 ../page/gmwfb-edit.php:81
+msgid "Enter map longitude (Or) Click Geocode button to get longitude."
+msgstr "தீர்க்க ரேகை"
+
+#: ../page/gmwfb-add.php:93
+msgid "New details was successfully added."
+msgstr "புதிய விவரங்கள் வெற்றிகரமாக சேர்க்கப்பட்டது"
+
+#: ../page/gmwfb-add.php:97 ../page/gmwfb-edit.php:114
+msgid "Oops unexpected error occurred."
+msgstr "அச்சச்சோ எதிர்பாராத பிழை ஏற்பட்டது."
+
+#: ../page/gmwfb-add.php:141 ../page/gmwfb-edit.php:129
+msgid "Click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../page/gmwfb-add.php:142 ../page/gmwfb-edit.php:130
+msgid "to view the details"
+msgstr "விவரங்கள் பார்வையிட"
+
+#: ../page/gmwfb-add.php:156 ../page/gmwfb-edit.php:144
+msgid "Add details"
+msgstr "விவரங்கள் சேர்"
+
+#: ../page/gmwfb-add.php:158 ../page/gmwfb-edit.php:146
+msgid "Location Heading"
+msgstr "இடம் தலைப்பு"
+
+#: ../page/gmwfb-add.php:162 ../page/gmwfb-edit.php:150
+msgid "Map Address"
+msgstr "வரைபடம் முகவரி"
+
+#: ../page/gmwfb-add.php:164 ../page/gmwfb-edit.php:152
+msgid "Geocode"
+msgstr "நிலவியற்குறியீடு"
+
+#: ../page/gmwfb-add.php:165 ../page/gmwfb-edit.php:153
+msgid "Enter the map address. Google auto suggest helps you to choose one."
+msgstr "வரைபடத்தை முகவரியை உள்ளிடவும்."
+
+#: ../page/gmwfb-add.php:167 ../page/gmwfb-edit.php:155
+#: ../page/gmwfb-show.php:60 ../page/gmwfb-show.php:72
+msgid "Latitude"
+msgstr "அட்சரேகை"
+
+#: ../page/gmwfb-add.php:168 ../page/gmwfb-edit.php:156
+#: ../page/gmwfb-show.php:61 ../page/gmwfb-show.php:73
+msgid "Longitude"
+msgstr "தீர்க்க ரேகை"
+
+#: ../page/gmwfb-add.php:170 ../page/gmwfb-edit.php:158
+msgid "Enter the location latitude. "
+msgstr "அட்சரேகை சேர்க்கவும்."
+
+#: ../page/gmwfb-add.php:172 ../page/gmwfb-edit.php:160
+msgid "Short Message"
+msgstr "குறுகிய செய்தி"
+
+#: ../page/gmwfb-add.php:174 ../page/gmwfb-edit.php:162
+msgid "Enter short message for this address."
+msgstr "குறுகிய செய்தி சேர்க்கவும்."
+
+#: ../page/gmwfb-add.php:176 ../page/gmwfb-edit.php:164
+#: ../page/gmwfb-show.php:62 ../page/gmwfb-show.php:74
+msgid "Width"
+msgstr "அகலம்"
+
+#: ../page/gmwfb-add.php:192 ../page/gmwfb-edit.php:180
+msgid "Select your width percentage for the map."
+msgstr "அகலம் சதவீதம் தேர்வு."
+
+#: ../page/gmwfb-add.php:194 ../page/gmwfb-edit.php:182
+#: ../page/gmwfb-show.php:63 ../page/gmwfb-show.php:75
+msgid "Height"
+msgstr "உயரம்"
+
+#: ../page/gmwfb-add.php:210 ../page/gmwfb-edit.php:198
+msgid "Select your height percentage for the map."
+msgstr "உயரம் சதவீதம் தேர்வு."
+
+#: ../page/gmwfb-add.php:212 ../page/gmwfb-edit.php:200
+msgid "Map Zoom Level"
+msgstr "ஜூம்"
+
+#: ../page/gmwfb-add.php:229 ../page/gmwfb-edit.php:217
+msgid "Select your zoom level for the map."
+msgstr "ஜூம் நிலை தேர்ந்தெடுக்கவும்."
+
+#: ../page/gmwfb-add.php:231 ../page/gmwfb-edit.php:219
+#: ../page/gmwfb-show.php:64 ../page/gmwfb-show.php:76
+msgid "Map Type"
+msgstr "வகை"
+
+#: ../page/gmwfb-add.php:238 ../page/gmwfb-edit.php:226
+msgid "Select your map type for the map."
+msgstr "வரைபடம் வகை தேர்ந்தெடுக்க."
+
+#: ../page/gmwfb-add.php:240 ../page/gmwfb-edit.php:228
+msgid "Select Layers"
+msgstr "தேர்வு அடுக்குகள்"
+
+#: ../page/gmwfb-add.php:247 ../page/gmwfb-edit.php:235
+msgid "Select layer for the map."
+msgstr "வரைபடம் அடுக்கு தேர்ந்தெடுக்கவும்."
+
+#: ../page/gmwfb-add.php:252 ../page/gmwfb-edit.php:240
+msgid "Submit"
+msgstr "சமர்ப்பிக்கவும்"
+
+#: ../page/gmwfb-add.php:253 ../page/gmwfb-edit.php:241
+msgid "Cancel"
+msgstr "ரத்து"
+
+#: ../page/gmwfb-add.php:254 ../page/gmwfb-edit.php:242
+#: ../page/gmwfb-show.php:122
+msgid "Help"
+msgstr "உதவி"
+
+#: ../page/gmwfb-edit.php:14 ../page/gmwfb-show.php:18
+msgid "Oops, selected details doesnt exist."
+msgstr "அச்சச்சோ, தேர்வு விவரங்கள் இல்லை."
+
+#: ../page/gmwfb-edit.php:110
+msgid "Details was successfully updated."
+msgstr "விவரங்கள் வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: ../page/gmwfb-show.php:33
+msgid "Selected record was successfully deleted."
+msgstr "வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: ../page/gmwfb-show.php:46 ../page/gmwfb-show.php:121
+msgid "Add New"
+msgstr "சேர்"
+
+#: ../page/gmwfb-show.php:58 ../page/gmwfb-show.php:70
+msgid "Heading"
+msgstr "தலைப்பு"
+
+#: ../page/gmwfb-show.php:59 ../page/gmwfb-show.php:71
+msgid "Short Code"
+msgstr "கோட்"
+
+#: ../page/gmwfb-show.php:92
+msgid "Edit"
+msgstr "திருத்து"
+
+#: ../page/gmwfb-show.php:94
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../page/gmwfb-show.php:110
+msgid "No records available."
+msgstr "பதிவுகள் இல்லை"
